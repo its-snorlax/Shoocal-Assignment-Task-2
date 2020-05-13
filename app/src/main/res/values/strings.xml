@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Shoocal Assignment - Task 2</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="what_is_your_dob">What is your DOB?</string>
+    <string name="what_is_your_gender">What is your Gender?</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="what_is_your_name">What is your name?</string>
+    <string name="dob_hint">Date of Birth (format: dd/MM/yyyy)</string>
+    <string name="where_are_you_from">Where are you from?</string>
+    <string name="city_name">City Name</string>
+    <string name="save">save</string>
+    <string-array name="india_states">
+        <item>Delhi</item>
+        <item>Maharashtra</item>
+        <item>Andhra Pradesh</item>
+        <item>Keral</item>
+        <item>Tamilnadu</item>
+        <item>Punjab</item>
+        <item>Haryana</item>
+        <item>Uttar Pradesh</item>
+        <item>Other</item>
+    </string-array>
+</resources>
